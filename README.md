@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > npm i react-icons
 > configure tailwind css (https://tailwindcss.com/docs/guides/create-react-app) \
 > npm i react-router-dom \
-> npm start \
+> npm start
 
 ## Dummy API 
 > https://fakestoreapi.com/
