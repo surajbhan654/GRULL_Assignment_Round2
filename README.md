@@ -3,14 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## install
-> npm install
-> npm i react-toastify
+> npm install \
+> npm i react-toastify \
 > npm i react-icons
-> configure tailwind css (https://tailwindcss.com/docs/guides/create-react-app)
-> npm i react-router-dom
-> npm start
+> configure tailwind css (https://tailwindcss.com/docs/guides/create-react-app) \
+> npm i react-router-dom \
+> npm start \
 
-## Dummy API
+## Dummy API \
 > https://fakestoreapi.com/
 
 
