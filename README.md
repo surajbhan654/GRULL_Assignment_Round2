@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > npm i react-router-dom \
 > npm start \
 
-## Dummy API \
+## Dummy API 
 > https://fakestoreapi.com/
 
 
