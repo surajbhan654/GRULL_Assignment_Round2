@@ -1,5 +1,5 @@
 ## Live
-https://www.linkedin.com/in/surajbhan-kumar-7ba450228/
+https://grull-assignment-round2.vercel.app/
 
 ## install
 > npm install \
